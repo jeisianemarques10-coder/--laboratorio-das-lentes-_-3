@@ -1,0 +1,27 @@
+LABORATÓRIO DAS LENTES — VERSÃO COM DISPUTA ENTRE DUAS EQUIPES
+
+COMO ABRIR
+1. Extraia todos os arquivos desta pasta.
+2. Abra o arquivo index.html em um navegador atualizado.
+3. Não separe o HTML, CSS, JavaScript e a ilustração: eles precisam ficar juntos.
+
+DINÂMICA DA PARTIDA
+- Antes de jogar, as equipes podem estudar o guia científico.
+- Cadastrem o nome das duas equipes.
+- Em cada uma das 12 rodadas, as duas equipes respondem à mesma pergunta.
+- A primeira equipe registra sua resposta; o jogo não mostra se ela acertou.
+- Em seguida, a segunda equipe registra sua resposta. A ordem de quem começa alterna a cada pergunta.
+- Só depois das duas respostas o jogo revela o gabarito e a explicação.
+- Cada resposta correta vale 10 pontos. Respostas erradas não retiram pontos.
+- Uma peça do microscópio é liberada após cada rodada. As equipes montam juntas a imagem, arrastando a peça para o espaço numerado correspondente.
+- O jogo distribui as posições corretas entre A, B, C e D de forma equilibrada: três respostas corretas em cada letra por partida. As alternativas também mudam de ordem.
+- Ao final, vence a equipe com maior pontuação. Em caso de empate, cada equipe explica a função de uma parte do microscópio.
+
+DICA DE PARTICIPAÇÃO
+As equipes devem trocar o porta-voz a cada rodada para que diferentes integrantes possam conversar e responder.
+
+ARQUIVOS
+index.html — estrutura do jogo
+style.css — identidade visual e layout
+script.js — perguntas, pontuação e dinâmica
+microscopio.svg — ilustração usada no quebra-cabeça
